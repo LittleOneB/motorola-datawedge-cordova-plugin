@@ -1,5 +1,5 @@
 {
-  "name": "motorola-datawedge-cordova-plugin-master",
+  "name": "motorola-datawedge-cordova-plugin",
   "version": "0.1.0",
   "description": "Cordova Motorola DataWedge Plugin ============",
   "cordova": {
@@ -8,6 +8,16 @@
       "android"
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LittleOneB/motorola-datawedge-cordova-plugin.git"
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
   "keywords": [
     "datawedge",
     "cordova-android"
